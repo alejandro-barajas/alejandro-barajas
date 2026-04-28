@@ -15,8 +15,8 @@ I'm an aspiring IT Support Specialist based in Auburn, WA, currently completing 
 | Lab | Topic | Status |
 |-----|-------|--------|
 | Lab 01 | Azure Resource Groups | ✅ Complete |
-| Lab 02 | Azure Compute & Networking | 🔄 In Progress |
-| Lab 03 | Ticketing Systems (osTicket) | ⏳ Coming Soon |
+| Lab 02 | Azure Compute & Networking | ✅ Complete |
+| Lab 03 | Ticketing Systems (osTicket) | 🔄 In Progress |
 | Lab 04 | Virtual Private Networks | ⏳ Coming Soon |
 | Lab 05 | Active Directory | ⏳ Coming Soon |
 | Lab 06 | DNS | ⏳ Coming Soon |
